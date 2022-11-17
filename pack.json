@@ -1,0 +1,9 @@
+{
+  "name": "Beneath The Mask",
+  "description": "Beneath The Mask by Lyn from Persona 5.",
+  "author": "PengwinTTV",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+}
